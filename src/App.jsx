@@ -4,7 +4,7 @@ import WeatherComponent from "./components/weatherComponent";
 
 
 function App() {
-  const [Val, setVal] = useState("Mumbai");
+  const [Val, setVal] = useState("Delhi");
   const [data, setData] = useState({})
   const inputRef = useRef(null);
 
