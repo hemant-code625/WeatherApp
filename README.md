@@ -4,7 +4,8 @@ Click here👆🏻: https://hemant-code625.github.io/WeatherApp/
 
 WeatherApp is a simple web application built using Vite and React. It serves as a learning project for handling real-world APIs to fetch and display weather information. This README provides you with essential information to set up and run the application, understand its structure, and get the most out of your learning experience.
 
-![Screenshot 2023-08-27 105119](https://github.com/hemant-code625/WeatherApp/assets/111212867/955c16c9-ab66-4637-b4a7-cec568e91ca4)
+![Screenshot 2023-08-27 162735](https://github.com/hemant-code625/WeatherApp/assets/111212867/9d6a0711-95e9-425a-b94f-b976336fd2e7)
+
 
 ## Table of Contents
 
@@ -74,4 +75,3 @@ Experiment with the code and make changes to enhance your understanding of React
 
 ## License
 WeatherApp is open-source software released under the MIT License.
->>>>>>> 9923ec5d46f9697e678c01a83df63d52a473ef1e
